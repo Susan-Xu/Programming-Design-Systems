@@ -18,8 +18,8 @@ function setup() {
     
     // color
     var y = 0;
-    for (var i = 0; i <= row; i++) {
-      var h = 6 - 8*i;
+    for (var i = 0; i < row; i++) {
+      var h = 366 - 8*i;
       var s = 82 - 4*i;
       var b = 88 - 10*i;
       fill(h % 360, s, b);
