@@ -4,6 +4,7 @@ function setup() {
     colorMode(HSB);
     
     var column = 2;
+    var row = 3;
     var margin = width/20;
     var colWidth = width / column;
     var rectWidth = colWidth/1.5;
