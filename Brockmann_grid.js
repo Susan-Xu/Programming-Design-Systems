@@ -1,3 +1,9 @@
+/* 
+This code use a js Library from Rune Madson
+Find more info about rune.js at http://runemadsen.github.io/rune.js/
+and more about EasyGrid: https://github.com/runemadsen/easygrid
+*/
+
 function setup() {
   createCanvas(300, 400);
   background(200);
